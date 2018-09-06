@@ -1,0 +1,12 @@
+name: shiny_project
+title: shiny_project
+username:
+account: zonkblack90
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 387256
+bundleId: 1502391
+url: https://zonkblack90.shinyapps.io/shiny_project/
+when: 1532634774.87672
+asMultiple: FALSE
+asStatic: FALSE
