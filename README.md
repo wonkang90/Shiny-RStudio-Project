@@ -1,8 +1,3 @@
-# NYCDSA-Project-Files-
+# Shiny Project
 
-NYCDSA Project Files
-
-Project1(Shiny): https://zonkblack90.shinyapps.io/shiny_project/
-
-Project2(Selenium)
-
+Shiny Dashboard: https://zonkblack90.shinyapps.io/shiny_project/
