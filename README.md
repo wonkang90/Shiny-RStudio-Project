@@ -16,4 +16,4 @@ The purpose of this project is to create an interactive web application using th
     - ggplot2
 
 ## Shiny Dashboard
-- Shiny Dashboard: https://zonkblack90.shinyapps.io/shiny_project/
+- [Shiny Dashboard](https://zonkblack90.shinyapps.io/shiny_project/)
