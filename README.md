@@ -1,5 +1,5 @@
 # Shiny Project
-This project is a part of the data science project at the NYC Data Science Academy. Other NYCDSA projects can be found at the GitHub repo.
+This project is a part of the data science project at the NYC Data Science Academy. Other NYCDSA projects can be found at the [GitHub repo](https://github.com/wonkang90?tab=repositories).
 
 -- Project Status: Completed
 
